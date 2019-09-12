@@ -1,7 +1,7 @@
 ::
 
-  HIP: 400
-  Title: Format of Hush wallet.dat files
+  KIP: 400
+  Title: Format of Komodod wallet.dat files
   Author: Duke Leto <duke@leto.net>
   Category: Standards
   Created: 2019-09-12
