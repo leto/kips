@@ -11,7 +11,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 Number            | Title                                      | Owner                                 | Type          | Status        
 ----------------- | ------------------------------------------ | ------------------------------------- | ------------- | --------
 [0](kip-0000.md)  | KIP guidelines                  | Duke Leto                             | Process       | Planning      |
-[400](kip-0400.md)  | Wallet.dat format                  | Duke Leto                             | Standards       | Accepted?      |
+[400](kip-0400.rst  | Wallet.dat format                  | Duke Leto                             | Standards       | Accepted?      |
 
 
 
